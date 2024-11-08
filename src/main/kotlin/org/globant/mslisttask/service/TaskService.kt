@@ -1,7 +1,7 @@
-package com.prisma.mstasklist.service
+package org.globant.mslisttask.service
 
-import com.prisma.mstasklist.model.Task
-import com.prisma.mstasklist.repository.TaskRepository
+import org.globant.mslisttask.model.Task
+import org.globant.mslisttask.repository.TaskRepository
 import org.springframework.stereotype.Service
 
 @Service

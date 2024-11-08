@@ -1,4 +1,4 @@
-package com.prisma.mstasklist.model
+package org.globant.mslisttask.model
 
 import jakarta.persistence.Entity
 import jakarta.persistence.GeneratedValue

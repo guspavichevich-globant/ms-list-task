@@ -1,7 +1,7 @@
-package com.prisma.mstasklist.controller
+package org.globant.mslisttask.controller
 
-import com.prisma.mstasklist.model.Task
-import com.prisma.mstasklist.service.TaskService
+import org.globant.mslisttask.model.Task
+import org.globant.mslisttask.service.TaskService
 import org.springframework.http.HttpStatus
 import org.springframework.http.ResponseEntity
 import org.springframework.web.bind.annotation.*

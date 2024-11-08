@@ -1,1 +1,1 @@
-rootProject.name = "ms-task-list"
+rootProject.name = "ms-list-task"

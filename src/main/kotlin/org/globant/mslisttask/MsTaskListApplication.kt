@@ -1,4 +1,4 @@
-package com.prisma.mstasklist
+package org.globant.mslisttask
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication

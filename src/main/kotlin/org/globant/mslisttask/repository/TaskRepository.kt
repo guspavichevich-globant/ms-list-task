@@ -1,6 +1,6 @@
-package com.prisma.mstasklist.repository
+package org.globant.mslisttask.repository
 
-import com.prisma.mstasklist.model.Task
+import org.globant.mslisttask.model.Task
 import org.springframework.data.jpa.repository.JpaRepository
 
 interface TaskRepository : JpaRepository<Task, Long>
